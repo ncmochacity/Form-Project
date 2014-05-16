@@ -1,0 +1,11 @@
+aside.top{
+	width:80%;
+
+}
+a{
+	position:relative;
+	right:-10px;
+}
+a:before{
+	left:-30px;
+}
